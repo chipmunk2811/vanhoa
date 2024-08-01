@@ -456,10 +456,10 @@ header {
 }
 
 .text-hinhanh p {
-    text-align: center;
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: #f55f8d;
+    text-align: center !important;
+    font-size: 1.5rem !important;
+    font-weight: 700 !important;
+    color: #f55f8d !important;
 }
 
 .aboutus__content {
