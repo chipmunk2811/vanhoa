@@ -107,6 +107,7 @@ header {
 
 .header .theme-switch-wrapper img {
    width: 30px;
+   margin-left: 10px;
 }
 
 .header .nav-link::after {

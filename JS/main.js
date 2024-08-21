@@ -92,6 +92,6 @@ document.getElementById("lang_switch").onclick = function () {
 const defaultPage=()=>{
    window.location.replace('file:///C:/Users/Admin/Desktop/Museum/index.html')
 }
-const defaultPageInterval = setInterval(defaultPage, 600000);
+const defaultPageInterval = setInterval(defaultPage, 10000);
 
 
